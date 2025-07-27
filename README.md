@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mariam 
-### **AI Engineer | NLP & Computer Vision Specialist | Full-Stack Developer**  
+### **AI Engineer | NLP & Computer Vision Specialist**  
 
 🔭 **Currently Working On:**  
 - Building **autonomous AI agents** for real-world applications.  
